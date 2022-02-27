@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [2b]: https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white
 [2c]: https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22
 
-[![Portfolio][2c]][1c] [![LinkedIn][2]][1] [![Twitter][2b]][1b]
+[![Portfolio][2c]][1c]{:target="_blank"} [![LinkedIn][2]][1] [![Twitter][2b]][1b]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
