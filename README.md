@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 
 ![Rafh GitHub stats](https://github-readme-stats.vercel.app/api?username=rafh&show_icons=true&count_private=true&hide=contribs,stars)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafh)](https://git.io/streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafh&" alt="rafh" /></p>
+
