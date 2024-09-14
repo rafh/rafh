@@ -18,16 +18,14 @@ Here are some ideas to get you started:
 
 <!-- The link we want our bower bird to point to -->
 [1]: https://www.linkedin.com/in/roheard/
-[1b]: https://twitter.com/RafaelisHeard
-[1c]: https://rafaelheard.com/
-[1d]: https://stakk.io/
+[2]: https://rafaelheard.com/
+[3]: https://stakk.io/
 <!-- The image url we want to use for our img tag source -->
-[2]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
-[2b]: https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white
+[1c]: https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
 [2c]: https://img.shields.io/badge/portfolio-%23F15F5F.svg?&style=for-the-badge&logo=&logoColor=white%22
-[2d]: https://img.shields.io/badge/company-%235386E4.svg?&style=for-the-badge&logo=&logoColor=white%22
+[3d]: https://img.shields.io/badge/company-%235386E4.svg?&style=for-the-badge&logo=&logoColor=white%22
 
-[![Portfolio][2c]][1c] [![Company][2d]][1d] [![LinkedIn][2]][1] [![Twitter][2b]][1b]
+[![Portfolio][2c]][2] [![Company][3d]][3] [![LinkedIn][1c]][1]
 
 <!-- [![Rafael StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4021213)](https://stackoverflow.com/users/4021213/rafael) -->
 
