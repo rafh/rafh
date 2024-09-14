@@ -29,17 +29,17 @@ Here are some ideas to get you started:
 
 [![Portfolio][2c]][1c] [![Company][2d]][1d] [![LinkedIn][2]][1] [![Twitter][2b]][1b]
 
-[![Rafael StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4021213)](https://stackoverflow.com/users/4021213/rafael)
+<!-- [![Rafael StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=4021213)](https://stackoverflow.com/users/4021213/rafael) -->
 
 <div style="display: flex; align-items: center; flex-wrap: wrap">
 
 <span style="margin-right: 10px">
 
-![Rafh GitHub stats](https://git-hub-stats-3rd-party.vercel.app/api?username=rafh&show_icons=true&count_private=true&hide=contribs,stars)
+<!-- ![Rafh GitHub stats](https://git-hub-stats-3rd-party.vercel.app/api?username=rafh&show_icons=true&count_private=true&hide=contribs,stars) -->
 
 </span>
 
-[![Top Langs](https://git-hub-stats-3rd-party.vercel.app/api/top-langs/?username=rafh&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Top Langs](https://git-hub-stats-3rd-party.vercel.app/api/top-langs/?username=rafh&layout=compact&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 
